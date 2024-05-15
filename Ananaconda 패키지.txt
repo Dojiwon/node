@@ -1,0 +1,17 @@
+numpy
+scipy
+matplotlib
+pandas
+keras
+pytorch
+tensorflow
+scikit-learn
+seaborn
+googlemaps 
+scikit-image
+yellowbrick 
+
+[패키지 재대로 설치안될 때 해결방법]
+Anaconda prompt -> pip install googlemaps. 
+*만약에 설치가 안된다면 condo install googlemaps 설치
+Pip install yellow brick

@@ -1,0 +1,15 @@
+﻿  factorial.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\print(11): warning STL4038: The contents of <print> are available only with C++23 or later.
+D:\데이터구조\Project1\factorial\factorial.cpp(12,5): error C2084: 'int factorial(int)' 함수에 이미 본문이 있습니다.
+      D:\데이터구조\Project1\factorial\factorial.cpp(8,5):
+      'factorial'의 이전 정의를 참조하십시오.
+  
+D:\데이터구조\Project1\factorial\factorial.cpp(14,26): error C2568: '*': 함수 오버로드를 확인할 수 없습니다.
+      D:\데이터구조\Project1\factorial\factorial.cpp(14,26):
+      'int factorial(int)'일 수 있습니다.
+  
+D:\데이터구조\Project1\factorial\factorial.cpp(25,20): error C2568: '=': 함수 오버로드를 확인할 수 없습니다.
+      D:\데이터구조\Project1\factorial\factorial.cpp(25,20):
+      'int factorial(int)'일 수 있습니다.
+  
+D:\데이터구조\Project1\factorial\factorial.cpp(23,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
